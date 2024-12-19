@@ -1,1 +1,1 @@
-Hi, I’m @nathan-vansickle and I am a fourth-year Computer Science student at The Ohio State University.
+Hi, I’m @nathan-vansickle and I'm a senior Computer Science & Engineering (CSE) student at The Ohio State University. 
